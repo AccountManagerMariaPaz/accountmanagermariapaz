@@ -1,29 +1,42 @@
-# Account Manager Portfolio
+# 👋 Hi, I'm María Paz Ramírez Lembach
 
-Welcome!
+### Technology Account Manager | Customer Success | Business Development
 
-This repository contains frameworks, templates and best practices that I have learned and used throughout my experience as an Account Manager.
+I'm an Account Manager with experience managing international clients, developing business opportunities, and building long-term partnerships.
 
-## Topics
+I enjoy working at the intersection of technology and business, helping companies find the right solutions while delivering an outstanding customer experience.
 
-- Customer onboarding
-- Client retention
-- Business reviews
-- Success plans
-- Communication strategies
-- Escalation management## Hi there 👋
+---
 
-<!--
-**AccountManagerMariaPaz/accountmanagermariapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About Me
 
-Here are some ideas to get you started:
+- 🇨🇱 Chilean living in Italy
+- 💼 Key Account Manager
+- 🤝 Customer Success
+- 🚀 Business Development
+- 💻 Passionate about Technology
+- 🌎 Fluent in English & Spanish
+- 🇮🇹 Professional Working Proficiency in Italian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Currently Learning
+
+- SaaS
+- AI for Business
+- Blockchain
+- Customer Success
+- CRM Best Practices
+
+---
+
+## 📂 Featured Repositories
+
+Coming soon...
+
+- Customer Success Playbooks
+- Account Management Frameworks
+- Business Development Resources
+- AI Tools for Sales
+- SaaS Learning Notes
+- FinTech & Blockchain Notes
